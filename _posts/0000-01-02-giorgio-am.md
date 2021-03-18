@@ -2,5 +2,5 @@
 layout: slide
 title: "prueba pestaña"
 ---
-texto
+mordor
 click flecha izquierda!
